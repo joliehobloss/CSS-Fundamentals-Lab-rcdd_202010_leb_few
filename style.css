@@ -26,6 +26,7 @@ figcaption{
 }
 
 .p1{
+  display: block;
   width: 800px;
   text-align: center;
 }
