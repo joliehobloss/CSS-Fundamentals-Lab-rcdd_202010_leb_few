@@ -9,9 +9,11 @@ header{
 }
 
 figure{
-   text-align: center
+   text-align: center;
 }
 
 nav{
-  
+  padding-right: 10px;
+  padding-left: 10px;
+  background: grey;
 }
